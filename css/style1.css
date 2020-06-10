@@ -61,19 +61,18 @@ nav .links span {
       color: red;
 
     }
+  
   .history {
     max-width: 980px;
     min-height: 378px;
     margin: 0 auto 0 auto;
     position: relative;
     bottom: -40px;
-    font-weight: 0;
   }
   .history .history-title {
-    text-transform: uppercase;
-    font-size: 25px;
-    font-weight: bold;
-    border-bottom: solid 2px #070404;
+    
+    font-size: 12px;
+    
     padding-right: 30px;
     padding-bottom: 10px;
     padding-top: 15;top:20px;
@@ -83,13 +82,13 @@ nav .links span {
     position: relative;
     bottom: -50px;
     padding-top:60px;
-    
   }
+  
   
   .hero {
     max-width: 980px;
     height: 378px;
-    background-image: linear-gradient(to bottom, rgba(255, 209, 64, 0.5), rgba(255, 209, 64, 0.8)), url(../images/1-avirtualreal.jpg);
+    background-image: linear-gradient(to bottom, rgba(255, 209, 64, 0.5), rgba(255, 209, 64, 0.8)), url(../images/y.webp);
     margin: 0 auto;
     position: relative;
     bottom: -65px;
